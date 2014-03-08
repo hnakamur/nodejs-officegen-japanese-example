@@ -1,0 +1,14 @@
+{
+  "name": "excelgen-japanese-example",
+  "version": "0.0.0",
+  "description": "an example for generating an excel file containing Japanese characters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hiroaki Nakamura <hnakamur@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "officegen": "^0.2.8"
+  }
+}
